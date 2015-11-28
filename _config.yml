@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: MATHRHO
 subtitle:
 description:
-author: John Doe
+author: Zhenyang Li
 language:
 timezone:
 
@@ -69,6 +69,6 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/mathrho/mathrho.github.io
+  repo: git@github.com:mathrho/mathrho.github.io.git
   branch: master
 
